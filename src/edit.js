@@ -1,6 +1,3 @@
-import "core-js/stable";
-import "regenerator-runtime/runtime";
-
 import { initializeEditPage, generateLastEdited } from './views'
 import { updateNote, removeNote } from './notes'
 

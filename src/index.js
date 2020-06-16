@@ -1,6 +1,3 @@
-import "core-js/stable";
-import "regenerator-runtime/runtime";
-
 import { createNote } from './notes'
 import { setFilters } from './filters'
 import { renderNotes } from './views'
